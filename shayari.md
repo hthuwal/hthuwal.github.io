@@ -1,5 +1,12 @@
 # शायरी
 
+## :writing_hand: :notebook: 
+
+हम भी अगर ए दिल सब जैसे होते,   
+शिकवे तुझे हमसे कुछ कम से होते ।
+
+~हरीश
+
 ## :writing_hand: :notebook: बनके रह गई :arrows_counterclockwise:
 
 ज़िन्दगी चंद लम्हों की मोहताज बनके रह गई,   
