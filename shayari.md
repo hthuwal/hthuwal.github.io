@@ -2,6 +2,21 @@
 
 ## :writing_hand: :notebook: 
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 10px;">
+    ख्वाहिशें रहीं हमेशा बस छलाँग भर की,<br>  
+    ग़ाफ़िल रहे ता-उम्र इम्क़ान-ए-उड़ान से ।<br>
+    ~ हरीश
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    All I wished for was jumping high,<br>
+    Oblivious I was of the chance to fly.<br>
+    ~ Harish
+  </div>
+</div>
+
+## :writing_hand: :notebook: 
+
 माना की मुझ में नफ़ासत नहीं तुम्हारी   
 अब यूँ भी ना समझो की नाचीज़ हैं हम 
 
