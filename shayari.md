@@ -2,6 +2,20 @@
 
 ## :writing_hand: :notebook: 
 
+चलो तुमसे भी छुपा लेंगे अब हम ख़ुद को,<br>
+मिला करोगे तुम अब एक खुशनुमा इंसाँ से ।<br>
+
+~हरीश
+
+## :writing_hand: :notebook: 
+
+इख़्तिताम-ए-तमाशा-ए-ज़िंदगी वहाँ,<br>
+हो सुकून जहाँ या हो मौत का मकाँ ।<br>
+
+~हरीश
+
+## :writing_hand: :notebook: 
+
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; padding-right: 10px;">
     ख्वाहिशें रहीं हमेशा बस छलाँग भर की,<br>  
